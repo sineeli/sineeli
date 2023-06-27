@@ -1,6 +1,6 @@
 👋 Hello, I'm Siva Sravana Kumar Neeli!
 
-🔭 Data Scientist | Deep Learning Enthusiast | Machine Learning Practitioner
+🔭 Software Engineer | Deep Learning Enthusiast | Machine Learning Practitioner
 
 📊 Passionate about new ML Tecnologies
 
