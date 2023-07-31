@@ -11,3 +11,7 @@
 📫 Let's connect! Whether it's discussing exciting ideas, collaborating on projects, or sharing insights.
 
 Keep exploring, keep learning, and keep building intelligent systems! 🚀
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sineeli&theme=onedark)](https://github.com/mohantym/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=sineeli&color=green)
