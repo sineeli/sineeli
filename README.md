@@ -1,6 +1,6 @@
 👋 Hello, I'm Siva Sravana Kumar Neeli!
 
-Please check my profile at sineeli.github.io
+Please check my profile at [sineeli.github.io](https://sineeli.github.io/)
 
 🔭 Software Engineer | Deep Learning Enthusiast | Machine Learning Practitioner
 
