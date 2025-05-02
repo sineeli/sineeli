@@ -28,14 +28,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,git,github,linux,django,sklearn,gcp,postgres,vscode" />
-</p>
-
----
-
 ### 🚀 Featured Open Source Contributions
 
 🔹 [PR #1989](https://github.com/keras-team/keras-hub/pull/1989) – Added **Vision Transformer** to KerasHub  
@@ -43,6 +35,15 @@
 🔹 [PR #2089](https://github.com/keras-team/keras-hub/pull/2089) – Added **ParSeq** architecture *(WIP)*  
 🔹 [PR #1869](https://github.com/keras-team/keras-cv/pull/2458) – Implemented **Faster R-CNN** in KerasCV  
 🔹 [PR #20368](https://github.com/keras-team/keras/pull/20368) – Extended bounding box support in **Keras Vision Layers**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,git,github,linux,django,sklearn,gcp,postgres,vscode" />
+</p>
+
 
 ---
 
