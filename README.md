@@ -23,7 +23,8 @@ Keep exploring, keep learning, and keep building intelligent systems! 🚀
 ## My Top Pull Requests
 
 Here are some of my best contributions to open-source projects:
-  🔹 [PR #1989] - Added Vison Transformer architecture to KerasHub 🚀
+
+  🔹 [PR #1989](https://github.com/keras-team/keras-hub/pull/1989) - Added Vison Transformer architecture to KerasHub 🚀
   🔹 [PR #1906](https://github.com/keras-team/keras-hub/pull/1906) - Added RetinaNet architecture to KerasHub 🚀
   🔹 [PR #2089](https://github.com/keras-team/keras-hub/pull/2089) - Adding ParSeq architecture to KerasHub[WIP] 🚀
   🔹 [PR #1869](https://github.com/keras-team/keras-cv/pull/2458) - Added Faster R-CNN architecture to KerasCV 🚀
