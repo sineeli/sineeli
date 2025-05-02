@@ -6,7 +6,7 @@
   <a href="https://sineeli.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sravanneeli" target="_blank">
+  <a href="https://www.linkedin.com/in/sravananeeli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sravan.neeli267@gmail.com">
